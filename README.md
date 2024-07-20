@@ -45,7 +45,7 @@ The RESTful API fetches product details from a MySql collection. The API support
 
 ```
 
- ### MongoDB Collection
+ ### MySql Collection
 Assume you have a MongoDB collection named `products` with the following structure:
 
 ```
